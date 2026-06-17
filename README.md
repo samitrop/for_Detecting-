@@ -26,3 +26,5 @@
 
 
 For questions about this research, please contact the corresponding author, Dr. Antonio Luiz Pinho Ribeiro, at alpr1963br@gmail.br.
+
+<a href="https://doi.org/10.5281/zenodo.20736267"><img src="https://zenodo.org/badge/1272494569.svg" alt="DOI"></a>
